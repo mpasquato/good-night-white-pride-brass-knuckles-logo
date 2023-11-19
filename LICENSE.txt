@@ -1,6 +1,6 @@
 LICENSE
 
-This project falls under the Creative Commons Attribution 4.0 license (CC BY 4.0 DEED).
+This project falls under the Creative Commons Attribution 4.0 International license (CC BY 4.0 DEED).
 
 You are free to:
 • Share - copy and redistribute the material in any medium or format for any purpose, even commercially.
